@@ -21,7 +21,7 @@ import android.widget.Toast;
 
 public class DrugInfoLocalActivity extends Activity{
 	
-	final static String TAG = "DrugInfo";
+	final static String TAG = "MedLookup";
 	
 	public String name ;
 	public String usage ;
